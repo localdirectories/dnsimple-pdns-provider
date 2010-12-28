@@ -5,7 +5,7 @@ Jeweler::Tasks.new do |gem|
   gem.homepage = "https://github.com/aetrion/powerdns-sqlite-provider"
   gem.license = "Apache"
   gem.summary = %Q{DNSimple service provider}
-  gem.description = %Q{SQLite 3 backed PowerDNS service provider for DNSimple}
+  gem.description = %Q{SQLite3 backed PowerDNS service provider for DNSimple}
   gem.email = "dje@dnsimple.com"
   gem.authors = ["Darrin Eden"]
   gem.add_dependency "grape"
